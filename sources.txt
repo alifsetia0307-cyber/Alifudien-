@@ -1,0 +1,14 @@
+# Daftar sumber latihan English. Satu baris = satu sumber.
+# Format:  Nama | URL
+# - URL halaman channel (".../videos")  -> otomatis memutar video TERBARU dari channel itu
+# - URL video langsung (".../watch?v=...") -> diputar apa adanya
+# Setiap hari script memilih sumber berikutnya secara bergiliran (rotasi harian).
+# Baris yang diawali '#' diabaikan. Tambah / hapus sesukamu.
+
+BBC Learning English | https://www.youtube.com/@bbclearningenglish/videos
+BBC News             | https://www.youtube.com/@BBCNews/videos
+English with Lucy    | https://www.youtube.com/@EnglishwithLucy/videos
+BBC Learning English | https://www.youtube.com/@bbclearningenglish/videos
+VOA Learning English | https://www.youtube.com/@VOALearningEnglish/videos
+TED-Ed               | https://www.youtube.com/@TEDEd/videos
+BBC News             | https://www.youtube.com/@BBCNews/videos
